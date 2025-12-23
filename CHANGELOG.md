@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-09)
+## Unreleased (2025-12-23)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`d0e877e`](https://github.com/stdlib-js/stdlib/commit/d0e877ee2a6386c1cda0c426f5a5856cfa743762) - **bench:** refactor to use dynamic memory allocation in `math/strided/special/dmsksqrt` [(#9317)](https://github.com/stdlib-js/stdlib/pull/9317) _(by Seoha Son)_
 -   [`0e31615`](https://github.com/stdlib-js/stdlib/commit/0e3161565a04f0f41fd52e70f9e816d9821bcb0b) - **chore(math):** replace tabs with spaces in `manifest.json` [(#5843)](https://github.com/stdlib-js/stdlib/pull/5843) _(by Anshu Kumar)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
@@ -38,11 +39,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Anshu Kumar
 -   Athan Reines
 -   Philipp Burckhardt
+-   Seoha Son
 
 </section>
 
